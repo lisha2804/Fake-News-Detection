@@ -36,4 +36,4 @@ The following classifiers are implemented and evaluated:
 
 ## How to Run the Project
 
-   git clone https://github.com/your-username/Fake-News-Detection.git
+   https://github.com/lisha2804/Fake-News-Detection.git
